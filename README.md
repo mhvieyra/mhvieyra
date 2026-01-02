@@ -10,4 +10,4 @@ La idea es ayudar a millones de estudiantes, freelancers, emprendedores, trabaja
 
 Atlas originalmente era Timely, el nombre de timely se sentía como un nombre genérico de un SaaS y no terminaba de conectar con lo que buscaba.
 
-Ahora estoy trabajando de escalar y ser la aplicación número 1 del mundo.
+Ahora estoy trabajando de escalar y ser la aplicación  de productividad número 1 del mundo.
