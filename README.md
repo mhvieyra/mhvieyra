@@ -6,4 +6,4 @@ El objetivo es ayudar a personas a ser más productivas y a ganar horas de vida,
 
 Como dice el dicho, lo que no se puede medir no se puede mejorar y el sistema analítico de Atlas de permite hacer exactamente eso.
 
-La idea es ayudar a millones de estudiantes, freelancers, emprendedores, trabajadores,
+La idea es ayudar a millones de estudiantes, freelancers, emprendedores, trabajadores y personas alrededor del mundo a ganar tiempo de vida.
