@@ -9,3 +9,5 @@ Como dice el dicho, lo que no se puede medir no se puede mejorar y el sistema an
 La idea es ayudar a millones de estudiantes, freelancers, emprendedores, trabajadores y personas alrededor del mundo a ganar tiempo de vida.
 
 Atlas originalmente era Timely, el nombre de timely se sentía como un nombre genérico de un SaaS y no terminaba de conectar con lo que buscaba.
+
+Ahora estoy trabajando de escalar y ser la aplicación número 1 del mundo.
