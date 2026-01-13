@@ -12,3 +12,8 @@ Timeline de Atlas
 21/5/2025 Correción de errores
 24/5/2025 Se añade sistema de niveles
 24/5/2025 Se añade sistema de rachas
+26/5/2025 Se añade sistema logros
+28/5/2025 Seañade sistema de música
+28/5/2025 Se añade configuración
+6/6/2025 Se lanza landing page
+7/6/2025 Se corrige landing page
