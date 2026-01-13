@@ -24,9 +24,9 @@ Timeline de Atlas
 - 28/6/2025 Correción de errores
 - 14/7/2025 Correción de errores
 - 16/7/2025 Correción de errores
-19/7/2025 Mejoras generales
-19/7/2025 Mejoras de diseño  
-11/8/2025 Correción de errores
-14/8/2025 Correción de errores
-15/8/2025 Correción de errores
-24/8/2025 Correción de errores
+- 19/7/2025 Mejoras generales
+- 19/7/2025 Mejoras de diseño  
+- 11/8/2025 Correción de errores
+- 14/8/2025 Correción de errores
+- 15/8/2025 Correción de errores
+- 24/8/2025 Correción de errores
