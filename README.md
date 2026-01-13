@@ -17,3 +17,16 @@ Timeline de Atlas
 28/5/2025 Se añade configuración
 6/6/2025 Se lanza landing page
 7/6/2025 Se corrige landing page
+14/6/2025 Mejora analíticas
+20/6/2025 Se añade focus mode
+24/6/2025 Correción de errores
+27/6/2025 Correción de errores
+28/6/2025 Correción de errores
+14/7/2025 Correción de errores
+16/7/2025 Correción de errores
+19/7/2025 Mejoras generales
+19/7/2025 Mejoras de diseño  
+11/8/2025 Correción de errores
+14/8/2025 Correción de errores
+15/8/2025 Correción de errores
+24/8/2025 Correción de errores
